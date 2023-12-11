@@ -11,7 +11,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-"files": [
+  "files": [
     "dist"
   ],
   "scripts": {
@@ -35,5 +35,8 @@
   },
   "keywords": [
     "imageengine"
-  ]
+  ],
+  "dependencies": {
+    "jasmine": "^4.5.0"
+  }
 }
