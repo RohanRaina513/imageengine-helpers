@@ -37,6 +37,6 @@
     "imageengine"
   ],
   "dependencies": {
-    "jasmine": "^5.0.0"
+    "jasmine": "^6.0.0"
   }
 }
